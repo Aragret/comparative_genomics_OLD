@@ -1,3 +1,5 @@
+# вот моя строчка
+
 rm(list=ls(all=TRUE))  # remove everything from R memory (old variables, datasets...) 
 
 user = 'Alina'
