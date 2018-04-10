@@ -1,3 +1,5 @@
+## Ku=ku
+
 rm(list=ls(all=TRUE))
 user = 'Kostya'
 if (user == 'Kostya')
